@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Route } from 'react-router-dom';
 import ListView from './components/ListView';
-import dummyData from 'dummyData';
+import dummyData from './dummyData';
 import './App.css';
 
 class App extends Component {

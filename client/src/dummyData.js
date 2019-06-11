@@ -1,4 +1,4 @@
-const books = [
+const dummyData = [
     {
         title: "I Will Teach You To Be Rich",
         author: "Ramit Sethi",
@@ -16,4 +16,4 @@ const books = [
     }
 ];
 
-export default books;
+export default dummyData;
