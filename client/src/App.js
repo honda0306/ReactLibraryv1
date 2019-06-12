@@ -11,9 +11,11 @@ class App extends Component {
   }
 
   componentDidMount() {
+    console.log(this.state.books);
     this.setState({
       books: dummyData
     });
+    console.log(this.state.books);
   }
 
   // selectBook = (id) => {
